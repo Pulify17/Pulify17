@@ -1,5 +1,5 @@
-# Hi, I'm Prince 👋
+# Yo, I'm Pulify
 
-🎓 Computer Engineering Student  
-💻 Interested in programming and technology  
-🚀 Currently learning Python and web development
+🎓 Computer Engineering
+💻 Have vast interest in programming and technology.
+🚀 Currently learning languages for a specific purpose.
