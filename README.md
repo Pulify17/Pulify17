@@ -6,4 +6,4 @@
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,html,css,github,vscode,bash,pycompiler)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,html,css,github,vscode,bash,bots,‎idea‎,netlify,‎pycharm,‎powershell,‎raspberrypi,‎windows)](https://skillicons.dev)
