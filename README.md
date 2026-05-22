@@ -2,7 +2,7 @@
 
 🖥 Computer Engineering      
 📡 Have a vast knowledge and interest towards programming and technology.         
-🚀 Currently learning languages for a specific purpose.
+🚀 Currently learning programming languages for a specific purpose, opening a path aimed through innovation
 
 ## 🤖 Tech Stack
 
