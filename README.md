@@ -1,7 +1,7 @@
 # Yo, I'm Pulify
 
 🖥 Computer Engineering      
-📡 Have a vast interest and knowledge in programming and technology.         
+📡 Have a vast knowledge and interest towards programming and technology.         
 🚀 Currently learning languages for a specific purpose.
 
 ## 🤖 Tech Stack
