@@ -1,4 +1,4 @@
-# Yo, I'm Pulify
+# Hello, I'm Pulify
 
 🖥 Computer Engineering      
 📡 Have a vast knowledge and interest towards programming and technology.         
